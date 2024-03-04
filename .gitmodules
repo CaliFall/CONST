@@ -1,3 +1,6 @@
-[submodule "PartA_Aint_No_Reason"]
+[submodule "Part_Causeless"]
 	path = Part_Causeless
-	url = https://github.com/CaliFall/Aint_No_Reason.git
+	url = https://github.com/CaliFall/Causeless.git
+[submodule "Part_Shorts"]
+	path = Part_Shorts
+	url = https://github.com/CaliFall/Shorts.git
