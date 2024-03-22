@@ -4,3 +4,6 @@
 [submodule "Part_Shorts"]
 	path = Part_Shorts
 	url = https://github.com/CaliFall/Shorts.git
+[submodule "Part_Summer"]
+	path = Part_Summer
+	url = https://github.com/CaliFall/Summer.git
